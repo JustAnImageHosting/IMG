@@ -1,2 +1,2 @@
-# IMG
-An Image Hosting Based On The WordPress.
+# WP Media Folder
+An Image Hosting Storage For WordPress.
